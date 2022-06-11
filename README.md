@@ -21,7 +21,7 @@ Special thanks to the [AudioLet](https://github.com/oampo/Audiolet) javascript l
 Licensed under the [MIT license](http://www.opensource.org/licenses/mit-license)
 
 
-<img align="center" src="images.webp" alt="states" />
+<img align="center" src="states.webp" alt="states" />
 
 <img align="center" src="waves.jpg" alt="wave" />
 
