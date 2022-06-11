@@ -20,3 +20,8 @@ Special thanks to the [AudioLet](https://github.com/oampo/Audiolet) javascript l
 ##Licence
 Licensed under the [MIT license](http://www.opensource.org/licenses/mit-license)
 
+
+<img align="center" src="website/src/static/img/states.webp" alt="states" />
+
+<img align="center" src="website/src/static/img/wave.jpg" alt="wave" />
+
